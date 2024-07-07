@@ -1,0 +1,93 @@
+[
+    {
+        "id":1,
+        "type":"Standard",
+        "name":"Couple Simple Room",
+        "img":"room5.png",
+        "breakfast":"breakfast served",
+        "bed":"1 king-size bed",
+        "price":"₹ 3000/night"
+    },
+    {
+        "id":2,
+        "type":"Standard",
+        "name":"Luxe Room",
+        "img":"room4.png",
+        "breakfast":"breakfast served",
+        "bed":"1 king-size bed",
+        "price":"₹ 3000/night"
+    },
+    {
+        "id":3,
+        "type":"Standard",
+        "name":"Single Room",
+        "img":"room3.png",
+        "breakfast":"breakfast served",
+        "bed":"1 king-size bed",
+        "price":"₹ 3000/night"
+    },
+    {
+        "id":4,
+        "type":"Standard",
+        "name":"Master Room",
+        "img":"room2.png",
+        "breakfast":"breakfast served",
+        "bed":"1 king-size bed",
+        "price":"₹ 3000/night"
+    },
+
+    {
+        "id":5,
+        "type":"Standard",
+        "name":"Family Luxe",
+        "img":"room1.png",
+        "breakfast":"breakfast served",
+        "bed":"1 king-size bed",
+        "price":"₹ 3000/night"
+    },
+    {
+        "id":6,
+        "type":"Premium",
+        "name":"Couple Simple Room",
+        "img":"room5.png",
+        "breakfast":"breakfast served",
+        "bed":"1 king-size bed",
+        "price":"₹ 3000/night"
+    },
+    {
+        "id":7,
+        "type":"Premium",
+        "name":"Couple Simple Room",
+        "img":"room4.png",
+        "breakfast":"breakfast served",
+        "bed":"1 king-size bed",
+        "price":"₹ 3000/night"
+    },
+    {
+        "id":8,
+        "type":"Premium",
+        "name":"Couple Simple Room",
+        "img":"room3.png",
+        "breakfast":"breakfast served",
+        "bed":"1 king-size bed",
+        "price":"₹ 3000/night"
+    },
+    {
+        "id":9,
+        "type":"Premium",
+        "name":"Couple Simple Room",
+        "img":"room2.png",
+        "breakfast":"breakfast served",
+        "bed":"1 king-size bed",
+        "price":"₹ 3000/night"
+    },
+    {
+        "id":10,
+        "type":"Premium",
+        "name":"Couple Simple Room",
+        "img":"room1.png",
+        "breakfast":"breakfast served",
+        "bed":"1 king-size bed",
+        "price":"₹ 3000/night"
+    }
+]
